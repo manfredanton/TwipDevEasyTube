@@ -1,6 +1,10 @@
 self.assetsManifest = {
-  "version": "hyl21CDn",
+  "version": "FzMWDFSS",
   "assets": [
+    {
+      "hash": "sha256-1jw+/m+sPo8lm7Gcl+7Yn6ydLLWb5aIUDxkVbrdbcBM=",
+      "url": "404.html"
+    },
     {
       "hash": "sha256-7K5XgkpB/uZxbHotwFn7QOXUjARMM0tkQ9Mrk9u7V1o=",
       "url": "_framework/Microsoft.AspNetCore.Components.Web.4m1fh2g4qk.wasm"
@@ -186,7 +190,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-+7MXSg9C0kuPHK8j9G5V1foNiQhTnn0D8TwCebwOZAo=",
+      "hash": "sha256-JFo7pNvvHzEin6DF7U8DfQQVDPLK2mc1X++iCdp8HvA=",
       "url": "index.html"
     },
     {
