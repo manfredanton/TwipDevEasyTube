@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "GPcXsV4W",
+  "version": "Nln3ZZXk",
   "assets": [
     {
       "hash": "sha256-1jw+/m+sPo8lm7Gcl+7Yn6ydLLWb5aIUDxkVbrdbcBM=",
@@ -30,8 +30,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Extensions.Configuration.xxzcrm0fxk.wasm"
     },
     {
-      "hash": "sha256-QlBbWkqjGQV+oCNe9xWJMU3BYUedb1PH6Bkoj66ja0o=",
-      "url": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.utdd5x457m.wasm"
+      "hash": "sha256-hEL0htOdxwYjOLGR4Zy3oxzzCaqWOqIeNkTMAF08DGI=",
+      "url": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.w5796o1ea9.wasm"
     },
     {
       "hash": "sha256-2ACjTG4HsnLSsNjIIjAbxisHuyDitVVhaLE5ljtCOik=",
@@ -138,11 +138,11 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.bidgyl3ygr.wasm"
     },
     {
-      "hash": "sha256-ZzNdMwOgCKwFMvdPKQGHmf7wek6zWY9Eln4MzCACtpI=",
-      "url": "_framework/TwipDevEasyTube.j5224ivreh.wasm"
+      "hash": "sha256-wdWhC19fB+nQZyleLbyEFC4A7INWxWY5wcRUqTFQDTI=",
+      "url": "_framework/TwipDevEasyTube.3ngs7spcl1.wasm"
     },
     {
-      "hash": "sha256-cj+hcmQLukEzJMQINW5Sv1VZC3Fuy3K5O1Ry0aoV568=",
+      "hash": "sha256-tLLsPzhpGOhOD11W3EWfJUGxhXDO2ZBa6Uih/OQ5Rfo=",
       "url": "_framework/blazor.boot.json"
     },
     {
