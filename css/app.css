@@ -161,7 +161,7 @@ html, body {
 }
 
 .app-title {
-    font-size: 26px;
+    font-size: 36px;
     font-weight: 700;
     color: var(--yt-red);
     text-align: center;
@@ -176,9 +176,9 @@ html, body {
 
 .search-input {
     flex: 1;
-    height: 54px;
+    height: 64px;
     padding: 0 16px;
-    font-size: 18px;
+    font-size: 28px;
     border: 2px solid var(--border-color);
     border-radius: 10px;
     outline: none;
@@ -192,11 +192,11 @@ html, body {
     }
 
 .btn-primary {
-    height: 54px;
+    height: 64px;
     padding: 0 20px;
     background: var(--yt-red);
     color: white;
-    font-size: 18px;
+    font-size: 28px;
     font-weight: 700;
     border: none;
     border-radius: 10px;
