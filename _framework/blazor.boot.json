@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TwipDevEasyTube",
   "resources": {
-    "hash": "sha256-mzkWD74aMXYwc9HwKlu7pv0/71S1j33O6KNHNHJIFVg=",
+    "hash": "sha256-qBgmOMkqUXYqOKAbZmKIG+oTna2tU5VOv846CQw3WbM=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.kgh2tu2jgf.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.4m1fh2g4qk.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -10,7 +10,7 @@
       "Microsoft.Extensions.Configuration.Abstractions.0g9d1yvyqx.wasm": "Microsoft.Extensions.Configuration.Abstractions.wasm",
       "Microsoft.Extensions.Configuration.Json.hs30ykotrx.wasm": "Microsoft.Extensions.Configuration.Json.wasm",
       "Microsoft.Extensions.DependencyInjection.ge67bif20g.wasm": "Microsoft.Extensions.DependencyInjection.wasm",
-      "Microsoft.Extensions.DependencyInjection.Abstractions.w5796o1ea9.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.utdd5x457m.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "Microsoft.Extensions.Logging.pyfm8c3ub6.wasm": "Microsoft.Extensions.Logging.wasm",
       "Microsoft.Extensions.Logging.Abstractions.l1ybzfu1gs.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
       "Microsoft.Extensions.Options.37kmz6cgrw.wasm": "Microsoft.Extensions.Options.wasm",
@@ -36,7 +36,7 @@
       "System.Text.Json.4fs7m3qqev.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.bidgyl3ygr.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.6apye42fiu.wasm": "System.Private.CoreLib.wasm",
-      "TwipDevEasyTube.gvzltu77fz.wasm": "TwipDevEasyTube.wasm",
+      "TwipDevEasyTube.oq52nw2sxd.wasm": "TwipDevEasyTube.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.qc8g39g30v.js": "dotnet.native.js",
       "dotnet.native.boem75ye5i.wasm": "dotnet.native.wasm",
@@ -71,7 +71,7 @@
       "Microsoft.Extensions.Configuration.Abstractions.0g9d1yvyqx.wasm": "sha256-8LWdstmEk5TCrh4EeGqXOrM587HS4hukzjTC6X+u6c8=",
       "Microsoft.Extensions.Configuration.Json.hs30ykotrx.wasm": "sha256-MQVyTeCy/QdJaITPBsv8DX6g/74i7EpxV1R8FYGJAE0=",
       "Microsoft.Extensions.DependencyInjection.ge67bif20g.wasm": "sha256-2ACjTG4HsnLSsNjIIjAbxisHuyDitVVhaLE5ljtCOik=",
-      "Microsoft.Extensions.DependencyInjection.Abstractions.w5796o1ea9.wasm": "sha256-hEL0htOdxwYjOLGR4Zy3oxzzCaqWOqIeNkTMAF08DGI=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.utdd5x457m.wasm": "sha256-QlBbWkqjGQV+oCNe9xWJMU3BYUedb1PH6Bkoj66ja0o=",
       "Microsoft.Extensions.Logging.pyfm8c3ub6.wasm": "sha256-r52n78uOvVbQMLorx6u46nsZBPTyYm1hlXa9yFmJFhE=",
       "Microsoft.Extensions.Logging.Abstractions.l1ybzfu1gs.wasm": "sha256-579U5TrxCVH7s0XPwLL5RTkXTYKfQJGQHV+S39sALZw=",
       "Microsoft.Extensions.Options.37kmz6cgrw.wasm": "sha256-QVWbppJViS+xo8NEEnYq9Xnl7tm7OWSanXI9zrvKkq4=",
@@ -95,7 +95,7 @@
       "System.Text.Encodings.Web.5fvutybsfe.wasm": "sha256-b1D9iqancTKd5GC+Q16oTee9+7nwx2XTbl9FazMU+MY=",
       "System.Text.Json.4fs7m3qqev.wasm": "sha256-YJICwsrbMdL3Nw044YCUu4d537hiLgDNDycFJunBppM=",
       "System.Text.RegularExpressions.bidgyl3ygr.wasm": "sha256-Yy7QzVY0TlgBj00FZwuvPRRWpwvw0gM6xOUeIKrkUHE=",
-      "TwipDevEasyTube.gvzltu77fz.wasm": "sha256-JLKxfg+hn+ajMeJdjcXvvfJ4I7hGgJdQhYCXmjFRros="
+      "TwipDevEasyTube.oq52nw2sxd.wasm": "sha256-kKCVJf78lj16UxFrk0vV247uPmYBk7iO0DECiIvYeu4="
     }
   },
   "cacheBootResources": true,

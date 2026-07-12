@@ -343,7 +343,7 @@ html, body {
     background: transparent;
     border: none;
     color: var(--yt-red);
-    font-size: 18px;
+    font-size: 28px;
     font-weight: 700;
     cursor: pointer;
     white-space: nowrap;
