@@ -431,7 +431,7 @@ html, body {
 }
 
 /* ===== Responsive ===== */
-@media (max-width: 480px) {
+@media (max-width: 600px) {
     .video-thumbnail {
         width: 110px;
         min-width: 110px;
