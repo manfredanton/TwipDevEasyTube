@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TwipDevEasyTube",
   "resources": {
-    "hash": "sha256-qA2KvT2GZW5SEAsNlANIexKR9z0EWucUY5y5aqr3Ck8=",
+    "hash": "sha256-mzkWD74aMXYwc9HwKlu7pv0/71S1j33O6KNHNHJIFVg=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.kgh2tu2jgf.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.4m1fh2g4qk.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -36,7 +36,7 @@
       "System.Text.Json.4fs7m3qqev.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.bidgyl3ygr.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.6apye42fiu.wasm": "System.Private.CoreLib.wasm",
-      "TwipDevEasyTube.3ngs7spcl1.wasm": "TwipDevEasyTube.wasm",
+      "TwipDevEasyTube.gvzltu77fz.wasm": "TwipDevEasyTube.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.qc8g39g30v.js": "dotnet.native.js",
       "dotnet.native.boem75ye5i.wasm": "dotnet.native.wasm",
@@ -95,7 +95,7 @@
       "System.Text.Encodings.Web.5fvutybsfe.wasm": "sha256-b1D9iqancTKd5GC+Q16oTee9+7nwx2XTbl9FazMU+MY=",
       "System.Text.Json.4fs7m3qqev.wasm": "sha256-YJICwsrbMdL3Nw044YCUu4d537hiLgDNDycFJunBppM=",
       "System.Text.RegularExpressions.bidgyl3ygr.wasm": "sha256-Yy7QzVY0TlgBj00FZwuvPRRWpwvw0gM6xOUeIKrkUHE=",
-      "TwipDevEasyTube.3ngs7spcl1.wasm": "sha256-wdWhC19fB+nQZyleLbyEFC4A7INWxWY5wcRUqTFQDTI="
+      "TwipDevEasyTube.gvzltu77fz.wasm": "sha256-JLKxfg+hn+ajMeJdjcXvvfJ4I7hGgJdQhYCXmjFRros="
     }
   },
   "cacheBootResources": true,
