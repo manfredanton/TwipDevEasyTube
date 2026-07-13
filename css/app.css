@@ -108,6 +108,17 @@ code {
     --shadow: 0 2px 8px rgba(0,0,0,0.10);
 }
 
+/* Dark Mode */
+body.dark {
+    --bg-white: #1E1E1E;
+    --bg-light: #121212;
+    --text-primary: #F5F5F5;
+    --text-secondary: #AAAAAA;
+    --border-color: #333333;
+    --card-bg: #1E1E1E;
+    --shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+
 html, body {
     font-family: 'Segoe UI', Arial, sans-serif;
     background-color: var(--bg-light);
@@ -405,7 +416,6 @@ html, body {
     font-weight: 700;
     cursor: pointer;
 }
-
 /* ===== Spinner ===== */
 .spinner-box {
     display: flex;
@@ -428,6 +438,99 @@ html, body {
     to {
         transform: rotate(360deg);
     }
+}
+
+/* ===== Confirm Dialog ===== */
+.dialog-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dialog-box {
+    background: var(--bg-white);
+    border-radius: 16px;
+    padding: 28px;
+    margin: 20px;
+    max-width: 320px;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+
+.dialog-icon {
+    font-size: 40px;
+    margin-bottom: 12px;
+}
+
+.dialog-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 8px;
+}
+
+.dialog-message {
+    font-size: 16px;
+    color: var(--text-secondary);
+    margin-bottom: 24px;
+}
+
+.dialog-buttons {
+    display: flex;
+    gap: 12px;
+}
+
+.btn-confirm {
+    flex: 1;
+    height: 50px;
+    background: var(--yt-red);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btn-cancel {
+    flex: 1;
+    height: 50px;
+    background: var(--bg-light);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+/* Dark Mode */
+body.dark {
+    --bg-white: #1E1E1E;
+    --bg-light: #121212;
+    --text-primary: #F5F5F5;
+    --text-secondary: #AAAAAA;
+    --border-color: #333333;
+    --card-bg: #1E1E1E;
+    --shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+
+/* ===== Dark Mode Toggle ===== */
+.btn-theme {
+    background: transparent;
+    border: none;
+    font-size: 32px;
+    cursor: pointer;
+    padding: 0 12px;
+    line-height: 1;
 }
 
 /* ===== Responsive ===== */
