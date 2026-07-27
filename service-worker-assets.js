@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "w6uNZ+2D",
+  "version": "pIzo3YCr",
   "assets": [
     {
       "hash": "sha256-1jw+/m+sPo8lm7Gcl+7Yn6ydLLWb5aIUDxkVbrdbcBM=",
@@ -178,7 +178,7 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-C3WZEHJ0H5FR4zLIU7StaU2/SS0uJ142v6VHu8mbGUo=",
+      "hash": "sha256-2oLNCvTl9h73BaAfi0W70dtnMwG1yyGHGz1HWpYnwBg=",
       "url": "css/app.css"
     },
     {

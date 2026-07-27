@@ -499,7 +499,7 @@ html, body {
 
 /* ===== Search History Dialog ===== */
 .dialog-search-history {
-    max-width: 400px;
+    max-width: 500px;
     max-height: 80vh;
     display: flex;
     flex-direction: column;
@@ -517,7 +517,7 @@ html, body {
     justify-content: space-between;
     padding: 10px 0;
     border-bottom: 1px solid var(--border-color);
-    font-size: 16px;
+    font-size: 18px;
     color: var(--text-primary);
 }
 
@@ -527,7 +527,7 @@ html, body {
 
 .dialog-search-history-buttons {
     display: flex;
-    gap: 12px;
+    gap: 22px;
     margin-top: 12px;
 }
 
