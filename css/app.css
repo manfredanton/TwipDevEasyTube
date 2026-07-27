@@ -497,6 +497,40 @@ html, body {
         color: var(--text-primary);
     }
 
+/* ===== Search History Dialog ===== */
+.dialog-search-history {
+    max-width: 400px;
+    max-height: 80vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.dialog-search-history-list {
+    overflow-y: auto;
+    max-height: 50vh;
+    margin: 12px 0;
+}
+
+.dialog-search-history-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 16px;
+    color: var(--text-primary);
+}
+
+    .dialog-search-history-item:last-child {
+        border-bottom: none;
+    }
+
+.dialog-search-history-buttons {
+    display: flex;
+    gap: 12px;
+    margin-top: 12px;
+}
+
 /* ===== Confirm Dialog ===== */
 .dialog-overlay {
     position: fixed;
