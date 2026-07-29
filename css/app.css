@@ -497,6 +497,23 @@ html, body {
         color: var(--text-primary);
     }
 
+/* ===== Input Filter Clear =====*/
+.input-filterclear {
+    position: absolute;
+    right: 10px;
+    background: transparent;
+    border: none;
+    font-size: 30px;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 4px;
+    line-height: 1;
+}
+
+    .input-filterclear:hover {
+        color: var(--text-primary);
+    }
+
 /* ===== Search History Dialog ===== */
 .dialog-search-history {
     max-width: 500px;
