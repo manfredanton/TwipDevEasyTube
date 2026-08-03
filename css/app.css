@@ -117,6 +117,7 @@ body.dark {
     --border-color: #333333;
     --card-bg: #1E1E1E;
     --shadow: 0 2px 8px rgba(0,0,0,0.4);
+    background-color: #121212;
 }
 
 html, body {

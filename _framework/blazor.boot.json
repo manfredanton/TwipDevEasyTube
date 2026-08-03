@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TwipDevEasyTube",
   "resources": {
-    "hash": "sha256-32fwt6WlmAv58NumLA7tN2b/h6EN2NLORGqfg5TmV90=",
+    "hash": "sha256-oSWPvQ5DhCdDyw6wH9BCkfc/9K4PIAPeA+RB2HN569o=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.83u94uogc9.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.4m1fh2g4qk.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -37,22 +37,22 @@
       "System.Text.RegularExpressions.vmxr9zqpk1.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.6rvux7yz86.wasm": "System.Private.CoreLib.wasm",
       "TwipDevEasyTube.ekdpyo0ixi.wasm": "TwipDevEasyTube.wasm",
+      "dotnet.native.58rzk58qo1.js": "dotnet.native.js",
+      "dotnet.native.ve2yyjqj7z.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
-      "dotnet.native.mf92lzu2d1.js": "dotnet.native.js",
-      "dotnet.native.6sm8j8phll.wasm": "dotnet.native.wasm",
       "dotnet.runtime.7zon98f8ky.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat"
     },
     "jsModuleNative": {
-      "dotnet.native.mf92lzu2d1.js": "sha256-vmIOX4PNMW/lZiY9EBf+azWnO+yM3bxQOPRybnvEG2o="
+      "dotnet.native.58rzk58qo1.js": "sha256-lTxmCfqrG5phNEh4Qfy7K4+sRmva4WncaGSMe20OWOk="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.7zon98f8ky.js": "sha256-zWiDiXCfePn0/nLx2lSoJaVxxUIAaYKqTG9DTZqR/Mw="
     },
     "wasmNative": {
-      "dotnet.native.6sm8j8phll.wasm": "sha256-qvfJsMkiZ6OPXN1LC7yOFV9CbV5kMGULQQaOsficyFo="
+      "dotnet.native.ve2yyjqj7z.wasm": "sha256-ty4T+bz9peINWq8OGOBfGGKwuzMPpMBantzd9Ex1pRs="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
