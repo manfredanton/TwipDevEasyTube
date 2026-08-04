@@ -108,7 +108,7 @@ code {
     --shadow: 0 2px 8px rgba(0,0,0,0.10);
 }
 
-/* Dark Mode */
+/* ===== Dark Mode ===== */
 body.dark {
     --bg-white: #1E1E1E;
     --bg-light: #121212;
@@ -118,6 +118,12 @@ body.dark {
     --card-bg: #1E1E1E;
     --shadow: 0 2px 8px rgba(0,0,0,0.4);
     background-color: #121212;
+    min-height: 100vh;
+}
+
+html {
+    min-height: 100%;
+    background-color: var(--bg-light);
 }
 
 html, body {
@@ -125,18 +131,8 @@ html, body {
     background-color: var(--bg-light);
     color: var(--text-primary);
     font-size: 17px;
-    height: 100%;
+    min-height: 100%;
 }
-
-    body.dark .app-container {
-        background-color: var(--bg-light);
-        min-height: 100%;
-    }
-
-    body.dark {
-        background-color: #121212;
-        min-height: 100vh;
-    }
 
 /* ===== Layout ===== */
 .app-container {
@@ -427,6 +423,7 @@ html, body {
     font-weight: 700;
     cursor: pointer;
 }
+
 /* ===== Spinner ===== */
 .spinner-box {
     display: flex;
@@ -491,7 +488,7 @@ html, body {
         background: var(--bg-light);
     }
 
-/* ===== Input Clear =====*/
+/* ===== Input Clear ===== */
 .input-clear {
     position: absolute;
     right: 10px;
@@ -508,7 +505,7 @@ html, body {
         color: var(--text-primary);
     }
 
-/* ===== Input Filter Clear =====*/
+/* ===== Input Filter Clear ===== */
 .input-filterclear {
     position: absolute;
     right: 10px;
@@ -629,17 +626,6 @@ html, body {
     font-size: 17px;
     font-weight: 700;
     cursor: pointer;
-}
-
-/* Dark Mode */
-body.dark {
-    --bg-white: #1E1E1E;
-    --bg-light: #121212;
-    --text-primary: #F5F5F5;
-    --text-secondary: #AAAAAA;
-    --border-color: #333333;
-    --card-bg: #1E1E1E;
-    --shadow: 0 2px 8px rgba(0,0,0,0.4);
 }
 
 /* ===== Dark Mode Toggle ===== */
